@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d49b570-cb20-404b-b5a7-83a27bd0c81a" name="Changes" comment="- Fixed semantic HTML and took all css out of html">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d49b570-cb20-404b-b5a7-83a27bd0c81a" name="Changes" comment="- Added level one heading" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662020709337</updated>
       <workItem from="1662020710555" duration="26000" />
-      <workItem from="1662099035184" duration="378000" />
+      <workItem from="1662099035184" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="- Fixed semantic HTML and took all css out of html">
       <created>1662099305541</created>
@@ -50,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662099305541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Added level one heading">
+      <created>1662099666961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662099666961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Fixed semantic HTML and took all css out of html" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Fixed semantic HTML and took all css out of html" />
+    <MESSAGE value="- Added level one heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Added level one heading" />
   </component>
 </project>
