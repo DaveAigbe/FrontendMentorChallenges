@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d49b570-cb20-404b-b5a7-83a27bd0c81a" name="Changes" comment="" />
+    <list default="true" id="2d49b570-cb20-404b-b5a7-83a27bd0c81a" name="Changes" comment="- Fixed semantic HTML and took all css out of html">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -17,10 +22,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dave/Documents/javascript_work/FrontendMentor Challenges",
+    "last_opened_file_path": "C:/Users/Dave/Documents/Web Development/Frontend Mentor Challenges/qr-code-component-main",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -34,10 +41,34 @@
       <option name="presentableId" value="Default" />
       <updated>1662020709337</updated>
       <workItem from="1662020710555" duration="26000" />
+      <workItem from="1662099035184" duration="378000" />
     </task>
+    <task id="LOCAL-00001" summary="- Fixed semantic HTML and took all css out of html">
+      <created>1662099305541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662099305541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Fixed semantic HTML and took all css out of html" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed semantic HTML and took all css out of html" />
   </component>
 </project>
